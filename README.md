@@ -9,13 +9,13 @@ This is simple node project to store notes via terminal.
 <h1>Options</h1>
 <dl>
     <dt>help</dt>
-    <dd><strong><em>$ node app.js --help</em></strong> and <strong><em>$ node app.js add --help</em></strong> </dd>
+    <dd>$ node app.js --help <strong>and</strong> $ node app.js add --help </dd>
     <dt>add</dt>
-    <dd><strong><em>$ node app.js add --title="some title" --body="some body"</em></strong> or using alias-<strong><em>$ node app.js add -t="some title" -b="some body"</em></strong></dd>
+    <dd>$ node app.js add --title="some title" --body="some body" <strong> or using alias </strong>$ node app.js add -t="some title" -b="some body"</dd>
     <dt>list</dt>
-    <dd><strong><em>$ node app.js list</em></strong></dd>
+    <dd>$ node app.js list</dd>
     <dt>read</dt>
-    <dd><strong><em>$ node app.js read -t="some title"</em></strong></dd>
+    <dd>$ node app.js read -t="some title"</dd>
     <dt>remove</dt>
-    <dd><strong><em>$ node app.js remove -t="some title"</em></strong></dd>
+    <dd>$ node app.js remove -t="some title"</dd>
 </dl>
